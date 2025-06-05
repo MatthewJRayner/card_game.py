@@ -1,0 +1,12 @@
+SUIT COLORS:
+
+Spades = #3C4368
+Clubs = #225954
+Hearts = #EF3564 
+Diamonds = #F16B3D 
+
+FACE CARD COLORS:
+LIGHT_BLUE = #54A6DF
+RED = #F16154
+GOLD = #FFA300
+
